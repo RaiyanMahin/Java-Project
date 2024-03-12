@@ -12,7 +12,7 @@ The application allows users to perform various banking operations, such as crea
 2. Follow the on-screen menu to perform banking operations.
 
 ## File Link
-- [Main Java File](https://github.com/RaiyanMahin/WSD_Coding_Challenge/blob/main/WSD_Coding_Challenge/src/Main.java)
+- [Main Java File](https://github.com/RaiyanMahin/Java-Project/blob/main/Java%20Project/src/Main.java)
 
 ## Structure
 
@@ -59,7 +59,7 @@ These classes inherit from the `Account` class and represent specific types of a
 
 ## Sample Output
 
--[# Check this File](https://github.com/RaiyanMahin/WSD_Coding_Challenge/blob/main/Sample%20Output%20of%20BankingApplication.pdf)
+-[# Check this File](https://github.com/RaiyanMahin/Java-Project/blob/main/Sample%20Output%20of%20BankingApplication.pdf)
 
 Feel free to explore and extend the application for additional features and improvements.
 
